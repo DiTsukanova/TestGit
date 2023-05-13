@@ -1,3 +1,4 @@
 console.log('My git');
-const k = 'max';
+
+const k = 'string';
 console.log('k');
